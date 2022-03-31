@@ -1,0 +1,86 @@
+body{
+background-color:#59afe0;
+	
+}
+
+#menu 
+{
+	
+	
+	width: 100%;
+	height: 35px;
+	background: yellow;
+	position: sticky;
+	height: 50px;
+	width: 100%;
+	
+}
+#menu  li{
+	font-size: larger;
+	display: inline-block;
+	color: yellow;
+	
+	
+
+}
+.logo h1{
+
+font-weight: bold;
+color: gold;
+top:0px;
+left: 0px;	
+text-align: center;
+text-shadow: 2px 2px hsl(118, 39%, 38%);
+letter-spacing: 3.5px;
+
+}
+#menu  li a{
+text-decoration:none;
+font-size: 18px;
+text-transform: uppercase;
+padding: 40px;
+}
+h2{
+	
+text-align: center;	
+color: yellow;	
+}
+#firstp{
+	align-items: center;
+	padding: 5px 10px 10px 190px;
+}
+.imigl{
+	
+	width: 60%;
+	align-items: center;
+	padding: 5px 10px 10px 300px;
+	
+padding: auto;	
+}
+.imigl1{
+	width: 100%;
+	align-items: center;	
+}
+.imigl2
+{
+	align-items: center;	
+}
+.formm
+{
+	align-items: center;
+	
+}
+.spa1
+{
+	font-family: Arial, Helvetica, sans-serif;
+
+
+}.end{
+position: static;
+
+margin: 2px 0px 0px 160px;
+	
+}
+
+	
+	
